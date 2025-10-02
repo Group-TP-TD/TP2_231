@@ -1,5 +1,5 @@
 # TP2_231
-Listes chaînées.
+Manipulation des différents types de listes chaînées.
 
 Le TP n'a malheureusement pas pû être terminé, faute de gestion de temps. Néanmoins, nous continuerons avec les deux derniers points non traités pour notre propre apprentissage.
 
